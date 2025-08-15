@@ -22,6 +22,9 @@
 
           # Web.
           pkgs.bun
+
+          # Firebase.
+          pkgs.firebase-tools
         ];
       };
   };

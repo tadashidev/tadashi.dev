@@ -1,3 +1,10 @@
 
 # Direnv.
 /.direnv/
+
+# Firebase.
+/.firebase/
+/.firebaserc
+
+# Build artifacts.
+/public/
